@@ -1,0 +1,24 @@
+{
+  "name": "io.backtrace.reporter",
+  "displayName": "Reporter package",
+  "version": "1.0.0",
+  "unity": "2017.1",
+  "description": "Backtrace's integration example",
+  "keywords": [
+    "Backtrace",
+    "Error",
+    "Diagnostic",
+    "Tools",
+    "Debug",
+    "Bug",
+    "Bugs",
+    "StackTrace"
+  ],
+  "author": {
+    "email": "team@backtrace.io",
+    "name": "Backtrace I/O",
+    "url": "https://backtrace.io/"
+  },
+  "category": "Editor plugin + Script plugin",
+  "type": "library"
+}
