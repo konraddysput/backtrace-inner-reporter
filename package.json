@@ -22,6 +22,6 @@
   "category": "Editor plugin + Script plugin",
   "type": "library",
   "dependencies": {
-    "io.backtrace.unity": "https://github.com/backtrace-labs/backtrace-unity.git"
+    "io.backtrace.unity": "3.3.1"
   }
 }
