@@ -20,5 +20,8 @@
     "url": "https://backtrace.io/"
   },
   "category": "Editor plugin + Script plugin",
-  "type": "library"
+  "type": "library",
+  "dependencies": {
+    "io.backtrace.unity": "https://github.com/backtrace-labs/backtrace-unity.git"
+  }
 }
