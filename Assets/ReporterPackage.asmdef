@@ -1,3 +1,6 @@
 ﻿{
-	"name": "Reporter.Package"
+	"name": "Reporter.Package",
+	 "references": [
+        "Backtrace.Unity"
+    ]
 }
