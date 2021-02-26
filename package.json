@@ -20,18 +20,5 @@
     "url": "https://backtrace.io/"
   },
   "category": "Editor plugin + Script plugin",
-  "type": "library",
-  "dependencies": {
-    "io.backtrace.unity": "3.3.1"
-  },
-  "scopedRegistries": [
-    {
-      "name": "package.openupm.com",
-      "url": "https://package.openupm.com",
-      "scopes": [
-        "com.openupm",
-        "io.backtrace.unity"
-      ]
-    }
-  ]
+  "type": "library"
 }
